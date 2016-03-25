@@ -13,5 +13,8 @@
   <string name="stock_already_saved" translatable="true">This stock is already saved!</string>
   <string name="add_new_stock" translatable="true">Add new stock</string>
   <string name="periodic_tag" translatable="true">periodic</string>
-  <string name="no_symbol_dound">We could not find that symbol. Please try another symbol.</string>
+  <string name="no_symbol_dound" translatable="true">We could not find that symbol. Please try another symbol.</string>
+  <string name="widget_title" translatable="true">Today\'s Market</string>
+  <string name="network_unavailable_widget" translatable="true">network is unavailable</string>
+  <string name="title_line_graph">Stock Graph</string>
 </resources>
